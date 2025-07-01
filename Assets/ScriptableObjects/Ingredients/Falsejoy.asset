@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30823b0d41e48424296b461806946605, type: 3}
+  m_Name: Falsejoy
+  m_EditorClassIdentifier: 
+  ingredientName: Falsejoy
+  icon: {fileID: -1460058521, guid: 9aec720a569e101469dcaf92963959fd, type: 3}
+  selectedSprite: {fileID: -1460058521, guid: 9aec720a569e101469dcaf92963959fd, type: 3}
+  plateSprite: {fileID: -1460058521, guid: 9aec720a569e101469dcaf92963959fd, type: 3}
+  tags:
+  - {fileID: 11400000, guid: 92cb7ecba30e3854d9675bbfd0b0bf95, type: 2}
+  description: 

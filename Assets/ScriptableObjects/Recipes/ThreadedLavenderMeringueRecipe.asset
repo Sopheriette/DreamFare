@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 404bb9123dd8bd541a242d02a6e09625, type: 3}
+  m_Name: ThreadedLavenderMeringueRecipe
+  m_EditorClassIdentifier: 
+  pastryName: Threaded Lavender Meringue
+  requiredIngredients:
+  - {fileID: 11400000, guid: f4ce594df27c11a4dae4061246448dd5, type: 2}
+  - {fileID: 11400000, guid: 4d5e59cea0bfb1a4ab970118e897aff2, type: 2}
+  pastryAsset: {fileID: 11400000, guid: 360769fbd7aec5b48afecf42693d38dd, type: 2}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d12ddc5b426acd045b2c263fec314564, type: 3}
+  m_Name: SashaClyde
+  m_EditorClassIdentifier: 
+  customerName: Sasha Clyde
+  baseSprite: {fileID: -1377678146880095023, guid: ac7356384efe1b8478aafd1b18760566, type: 3}
+  happySprite: {fileID: -5033094562500872129, guid: ac7356384efe1b8478aafd1b18760566, type: 3}
+  angrySprite: {fileID: 4732033889266633423, guid: ac7356384efe1b8478aafd1b18760566, type: 3}
+  arrivalDialogue: []
+  waitingDialogue: []
+  successDialogue: []
+  failedDialogue: []
+  backstory: 

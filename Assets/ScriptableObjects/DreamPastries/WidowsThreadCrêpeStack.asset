@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fad371bd91da60c4b86a6349a36a28ce, type: 3}
+  m_Name: "WidowsThreadCr\xEApeStack"
+  m_EditorClassIdentifier: 
+  ingredients:
+  - {fileID: 11400000, guid: acd2587f005d09f47983d0cf09953121, type: 2}
+  - {fileID: 11400000, guid: f4ce594df27c11a4dae4061246448dd5, type: 2}
+  dreamTags:
+  - {fileID: 11400000, guid: b089b82c551b17f4abc077f3e5a49480, type: 2}
+  - {fileID: 11400000, guid: 806b797dbbd128e4ba6613ce934e0ef9, type: 2}
+  plateSprite: {fileID: 0}

@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: 79e55231e0fe4804993e55c3783658a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -58146496503318203
+    second: uu6_0
+  - first:
+      213: -4760292185477801284
+    second: uu6_1
+  - first:
+      213: 8014103439878352006
+    second: uu6_2
+  - first:
+      213: 8967430208524969585
+    second: uu6_3
+  - first:
+      213: -6953718032497983701
+    second: uu6_4
+  - first:
+      213: -4037414038042347832
+    second: uu6_5
+  - first:
+      213: 4216051300195665781
+    second: uu6_6
+  - first:
+      213: -1461600189798465962
+    second: uu6_7
+  - first:
+      213: -6796799251426428123
+    second: uu6_8
+  - first:
+      213: 7567525478122078860
+    second: uu6_9
+  - first:
+      213: -1176300731133916434
+    second: uu6_10
+  - first:
+      213: 1292190320658760161
+    second: uu6_11
+  - first:
+      213: 9164539887927783940
+    second: uu6_12
+  - first:
+      213: -269979308492740599
+    second: uu6_13
+  - first:
+      213: -3864130983223858262
+    second: uu6_14
+  - first:
+      213: -127623687125113712
+    second: uu6_15
+  - first:
+      213: -3402745942837267184
+    second: uu6_16
+  - first:
+      213: 7490980174371812861
+    second: uu6_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: uu6_0
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 2821
+        width: 905
+        height: 841
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5497cfac11c613ff0800000000000000
+      internalID: -58146496503318203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uu6_1
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 2822
+        width: 741
+        height: 912
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba17897a7b00fdb0800000000000000
+      internalID: -4760292185477801284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uu6_2
+      rect:
+        serializedVersion: 2
+        x: 2910
+        y: 2909
+        width: 809
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c6f273e90d73f60800000000000000
+      internalID: 8014103439878352006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uu6_3
+      rect:
+        serializedVersion: 2
+        x: 3952
+        y: 2843
+        width: 917
+        height: 837
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176ec3f5346b27c70800000000000000
+      internalID: 8967430208524969585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uu6_4
+      rect:
+        serializedVersion: 2
+        x: 5074
+        y: 2852
+        width: 766
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2fbab4ba4e6f7f90800000000000000
+      internalID: -6953718032497983701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uu6_5
+      rect:
+        serializedVersion: 2
+        x: 5833
+        y: 3638
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c67f43d25938f7c0800000000000000
+      internalID: -4037414038042347832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uu6_6
+      rect:
+        serializedVersion: 2
+        x: 5849
+        y: 2899
+        width: 906
+        height: 906
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5778cf6e15c628a30800000000000000
+      internalID: 4216051300195665781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uu6_7
+      rect:
+        serializedVersion: 2
+        x: 4774
+        y: 3155
+        width: 105
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e3b6b0f5a57bbe0800000000000000
+      internalID: -1461600189798465962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uu6_8
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1928
+        width: 870
+        height: 834
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b3611871beca1a0800000000000000
+      internalID: -6796799251426428123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uu6_9
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 1891
+        width: 807
+        height: 899
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c824f20f350450960800000000000000
+      internalID: 7567525478122078860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uu6_10
+      rect:
+        serializedVersion: 2
+        x: 2373
+        y: 1999
+        width: 861
+        height: 882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea0bb3a7b0fcafe0800000000000000
+      internalID: -1176300731133916434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uu6_11
+      rect:
+        serializedVersion: 2
+        x: 3480
+        y: 1993
+        width: 864
+        height: 849
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e140151048cee110800000000000000
+      internalID: 1292190320658760161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uu6_12
+      rect:
+        serializedVersion: 2
+        x: 4974
+        y: 1957
+        width: 854
+        height: 827
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40275d5e87cfe2f70800000000000000
+      internalID: 9164539887927783940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uu6_13
+      rect:
+        serializedVersion: 2
+        x: 5827
+        y: 1909
+        width: 991
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908a594df37d04cf0800000000000000
+      internalID: -269979308492740599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uu6_14
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1014
+        width: 869
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab6c530859df5ac0800000000000000
+      internalID: -3864130983223858262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uu6_15
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 1030
+        width: 760
+        height: 819
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0946bf7cee69a3ef0800000000000000
+      internalID: -127623687125113712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uu6_16
+      rect:
+        serializedVersion: 2
+        x: 4955
+        y: 1012
+        width: 918
+        height: 906
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0157840f79407c0d0800000000000000
+      internalID: -3402745942837267184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uu6_17
+      rect:
+        serializedVersion: 2
+        x: 5898
+        y: 1044
+        width: 882
+        height: 865
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5fce897ce45f760800000000000000
+      internalID: 7490980174371812861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      uu6_0: -58146496503318203
+      uu6_1: -4760292185477801284
+      uu6_10: -1176300731133916434
+      uu6_11: 1292190320658760161
+      uu6_12: 9164539887927783940
+      uu6_13: -269979308492740599
+      uu6_14: -3864130983223858262
+      uu6_15: -127623687125113712
+      uu6_16: -3402745942837267184
+      uu6_17: 7490980174371812861
+      uu6_2: 8014103439878352006
+      uu6_3: 8967430208524969585
+      uu6_4: -6953718032497983701
+      uu6_5: -4037414038042347832
+      uu6_6: 4216051300195665781
+      uu6_7: -1461600189798465962
+      uu6_8: -6796799251426428123
+      uu6_9: 7567525478122078860
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

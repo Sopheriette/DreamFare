@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fad371bd91da60c4b86a6349a36a28ce, type: 3}
+  m_Name: KindnessCradleRoll
+  m_EditorClassIdentifier: 
+  ingredients:
+  - {fileID: 11400000, guid: 143d5ebc0570256458eb2c62ca57a31f, type: 2}
+  - {fileID: 11400000, guid: 719ade636e4e11247b2a070c1e011bf8, type: 2}
+  dreamTags:
+  - {fileID: 11400000, guid: 2174f8aa6c43fe4458e87d97e8a9a182, type: 2}
+  - {fileID: 11400000, guid: 0605656bf33b6114dababe7d9f0106b0, type: 2}
+  plateSprite: {fileID: 0}
